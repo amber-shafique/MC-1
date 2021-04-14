@@ -1,6 +1,3 @@
 file-2
 
-<<<<<<< HEAD
-=======
 New branch has been added.
->>>>>>> newbranch
