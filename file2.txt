@@ -1,3 +1,2 @@
 file-2
 
-It is a new branch.
